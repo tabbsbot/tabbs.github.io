@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Tabbs
 
-You can use the [editor on GitHub](https://github.com/tabbsbot/tabbs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# v1 Beta
+We just released Tabbs, the kitty bot! We are adding a bunch of commands, like blurplefy, audio, autorole, and bunch more! We are working our tails off making the support commands, which will link to the server for support and a mention command, so when Tabbs is mentioned, it says 'Purr!' or something like that.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are all the commands we are adding:
 
-### Markdown
+- audio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- autorole
 
-```markdown
-Syntax highlighted code block
+- blurplefy
 
-# Header 1
-## Header 2
-### Header 3
+- imgwelcome
 
-- Bulleted
-- List
+- salt
 
-1. Numbered
-2. List
+- cookie
 
-**Bold** and _Italic_ and `Code` text
+Be on the lookout for new commands! These commands have a huge impact on the bot, so this takes time! 
 
-[Link](url) and ![Image](src)
-```
+Thanks!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tabbsbot/tabbs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+PaperCat
